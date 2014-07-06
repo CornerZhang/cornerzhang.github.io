@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Corner Zhang]]></title>
-  <link href="http://CornerZhang.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: None | Corner Zhang]]></title>
+  <link href="http://CornerZhang.github.io/blog/categories/none/atom.xml" rel="self"/>
   <link href="http://CornerZhang.github.io/"/>
   <updated>2014-07-06T15:07:01+08:00</updated>
   <id>http://CornerZhang.github.io/</id>
