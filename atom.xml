@@ -4,7 +4,7 @@
   <title><![CDATA[Corner Zhang]]></title>
   <link href="http://CornerZhang.github.io/atom.xml" rel="self"/>
   <link href="http://CornerZhang.github.io/"/>
-  <updated>2014-07-06T15:24:36+08:00</updated>
+  <updated>2014-07-06T15:29:32+08:00</updated>
   <id>http://CornerZhang.github.io/</id>
   <author>
     <name><![CDATA[Corner Zhang]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[看到我说明支持中文]]></title>
+    <link href="http://CornerZhang.github.io/blog/2014/07/06/kan-dao-wo-shuo-ming-zhi-chi-zhong-wen/"/>
+    <updated>2014-07-06T15:27:57+08:00</updated>
+    <id>http://CornerZhang.github.io/blog/2014/07/06/kan-dao-wo-shuo-ming-zhi-chi-zhong-wen</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Thanks for GitHub&amp;Octpress]]></title>
